@@ -1,0 +1,3 @@
+Notebook | 001 | Laboratorio 1
+Computador | 002 | Laboratorio 2
+Impressora | 003 | Secretaria
